@@ -15,6 +15,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Chartreuse;
         }
 
         private void Form1_Load(object sender, EventArgs e)
